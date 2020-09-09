@@ -5,10 +5,6 @@ First, super noobs are welcome to work on this project, putt around, eat some of
  talk about the horrors of modern politics in some hidden text file, etc.  Welcome all.  Also, i
   have never ran one of these things before!
 
-Second, while i made this github page minutes ago, i already regret it i don't have the spare energy
-to focus on this game.  So feel free to copy and past all this and start the project under your name.
-Or do it all here IDK.
-
 This game has several goals, but first and for most is entertainment!  
 
 Most games that have some useful goal go about it like a totalitarian or modern schools.  All
@@ -38,3 +34,8 @@ Anyways, potential goals:
  to mini game like add-ons.  Mini games that are (eventually) not just weak vestigial disconnected
   add-ons, but rather integrated into the game as seamlessly as those little shops in The Legend
    of Zelda N64.
+
+
+
+Feel free to copy and past all this and start the project under your name.
+Or do it all here IDK.
