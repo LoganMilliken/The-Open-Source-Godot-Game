@@ -9,11 +9,11 @@ This game has several goals, but first and for most is entertainment!
 
 Most games that have some useful goal go about it like a totalitarian or modern schools.  All
  silly work, silly tests, silly study.  PFFT!!!  We don't aim for work here, some grind, sure,
-some gray area, maybe.  This is osmosis level learning, so long as things are enjoyed.  I,
+some gray area, maybe.  This is osmosis level learning, so long as things are enjoyed, it is good.  I,
  personally, can not learn efficiently if i feel like i am working or forcing myself or under
     compulsion.
 
-Main thing:  This game will be all about skill levels, resources, and such.  Collecting those
+A main thing:  This game will be all about skill levels, resources, and such.  Collecting those
  radiant godot gear faces!
 
 Anyways, potential goals:
